@@ -1,2 +1,2 @@
-config:
-  profile: i am dev
+server:
+  port: 3344 server from github
